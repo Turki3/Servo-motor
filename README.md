@@ -1,1 +1,1 @@
-# Servo-motor
+# Smart methods
